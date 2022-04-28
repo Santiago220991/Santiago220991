@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![Orange and White Modern Simple Technology YouTube Thumbnail (1)](https://user-images.githubusercontent.com/98363075/165808807-dd12ecb7-8016-4abf-84fc-a93f5edf5079.png)
+![Banner](https://user-images.githubusercontent.com/98363075/165808807-dd12ecb7-8016-4abf-84fc-a93f5edf5079.png)
 
 
 
