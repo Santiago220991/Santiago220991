@@ -11,7 +11,7 @@
 <div style="display: flex; align-items: center;">
 <img src="https://github-readme-stats.vercel.app/api?username=Santiago220991&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2f97c1&icon_color=f5b700&text_color=0cf574&bg_color=040f0f" alt="my Github Stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Santiago220991&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="ovi"  style=" />
-</div
+</div>
 </p>
 
 
