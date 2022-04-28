@@ -11,7 +11,7 @@
 
 - 💼 Full-Stack Developer
 
-- 💬 Ask me about anything 
+- 💬 Ask me about anything[here](https://github.com/Santiago220991/Santiago220991/issues) 
 
 
 <h2>My Github Stats</h2>
