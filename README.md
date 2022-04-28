@@ -15,6 +15,7 @@
 
 - 💬 Ask me about anything [here](https://github.com/Santiago220991/Santiago220991/issues) 
 
+# Languajes: JavaScript | React | Redux | Ruby
 
 <h2>My Github Stats</h2>
 
