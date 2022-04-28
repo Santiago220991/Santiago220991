@@ -5,8 +5,9 @@
 <img src="https://user-images.githubusercontent.com/98363075/165829906-b9fd86ff-7ac3-44d2-8d4c-8778f5b7d375.gif" height=400px>
 </p>
 
-
-<img aling="center" (https://github-readme-stats.vercel.app/api?username=Santiago220991&hide=stars&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)>
+(https://github-readme-stats.vercel.app/api?username=Santiago220991&hide=stars&theme=blue-green)](<p aling="center>
+<img https://github.com/anuraghazra/github-readme-stats>
+</p>)
 <!--
 **Santiago220991/Santiago220991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
