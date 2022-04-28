@@ -17,7 +17,15 @@
 
 - You can check my portfolio [here](https://santiago220991.github.io/Portfolio/) 
 
-# Languajes: JavaScript | React | Redux | Ruby
+### Technologies
+
+- [x] Boostrap
+- [x] JavaScript
+- [ ] React
+- [ ] Redux
+- [ ] Node.js
+- [ ] PostgreSQL mySQL SQLServer
+
 
 <h2>My Github Stats</h2>
 
