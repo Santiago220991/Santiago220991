@@ -5,10 +5,6 @@
 <img src="https://user-images.githubusercontent.com/98363075/165829906-b9fd86ff-7ac3-44d2-8d4c-8778f5b7d375.gif" height=400px>
 </p>
 
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/98363075/165808807-dd12ecb7-8016-4abf-84fc-a93f5edf5079.png" height=400px>
-</p>
-
 
 <!--
 **Santiago220991/Santiago220991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
