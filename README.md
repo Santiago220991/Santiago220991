@@ -1,7 +1,8 @@
 <hr>
 
 
-https://user-images.githubusercontent.com/98363075/165829657-82d1a913-cdc4-4d59-a22c-de7f36d04b96.mp4
+
+![Orange and White Modern Simple Technology YouTube Thumbnail](https://user-images.githubusercontent.com/98363075/165829906-b9fd86ff-7ac3-44d2-8d4c-8778f5b7d375.gif)
 
 
 <p  align="center">
