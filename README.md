@@ -9,7 +9,8 @@
 <h2>About Me</h2>
 <img src="https://komarev.com/ghpvc/?username=Santiago220991&color=brightgreen" alt="watching_count" />
 - 💼 Full-Stack Developer
-- 💬 Ask me about anything [here] (https://github.com/Santiago220991/issues)
+
+- 💬 Ask me about anything 
 
 
 <h2>My Github Stats</h2>
