@@ -9,9 +9,9 @@
 <h2>About Me</h2>
 <img src="https://komarev.com/ghpvc/?username=Santiago220991&color=brightgreen" alt="watching_count" />
 
-- 💼 Full-Stack Developer
+- 💼 Microverse Student
 
-- 
+- 👀 I’m interested in Software and Electronics Engineering.
 
 - 💬 Ask me about anything [here](https://github.com/Santiago220991/Santiago220991/issues) 
 
