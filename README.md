@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+![Orange and White Modern Simple Technology YouTube Thumbnail (1)](https://user-images.githubusercontent.com/98363075/165808807-dd12ecb7-8016-4abf-84fc-a93f5edf5079.png)
+
+
+
 <!--
 **Santiago220991/Santiago220991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
