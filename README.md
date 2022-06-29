@@ -21,9 +21,9 @@
 
 - [x] Boostrap
 - [x] JavaScript
-- [ ] React
-- [ ] Redux
-- [ ] Node.js
+- [x] React
+- [x] Redux
+- [ ] Ruby
 - [ ] PostgreSQL mySQL SQLServer
 
 
