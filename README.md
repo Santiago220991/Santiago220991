@@ -24,7 +24,7 @@
 - [x] React
 - [x] Redux
 - [ ] Ruby
-- [ ] PostgreSQL mySQL SQLServer
+- [x] PostgreSQL mySQL SQLServer
 
 
 <h2>My Github Stats</h2>
