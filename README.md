@@ -9,7 +9,7 @@
 <h2>About Me</h2>
 <img src="https://komarev.com/ghpvc/?username=Santiago220991&color=brightgreen" alt="watching_count" />
 
-- 💼 Microverse Student
+- 💼 Currently working in Microverse.
 
 - 👀 I’m interested in Software and Electronics Engineering.
 
