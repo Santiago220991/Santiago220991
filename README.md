@@ -9,7 +9,7 @@
 <h2>About Me</h2>
 <img src="https://komarev.com/ghpvc/?username=Santiago220991&color=brightgreen" alt="watching_count" />
 
-- 💼 I'm currently working in IOET.
+- 💼 I'm currently working at IOET.
 
 - 👀 I’m interested in Software and Electronics Engineering.
 
