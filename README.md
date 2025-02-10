@@ -15,7 +15,7 @@
 
 - 💬 Ask me about anything [here](https://github.com/Santiago220991/Santiago220991/issues) 
 
-- You can check my portfolio [here](https://santiago220991.github.io/Portfolio/) 
+- You can check my portfolio [here](https://portfolio-santiago-cardenas.netlify.app/) 
 
 ### Technologies
 
